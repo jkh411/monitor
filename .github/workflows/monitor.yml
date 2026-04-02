@@ -1,4 +1,4 @@
-name: 铜价定时监控
+name: 定时监控
 
 on:
   schedule:
