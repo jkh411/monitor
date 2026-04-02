@@ -25,4 +25,4 @@ jobs:
       
       - name: 运行铜价监控脚本
         run: |
-          python copper_monitor.py
+          python monitor.py
